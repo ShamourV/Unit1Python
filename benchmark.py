@@ -28,8 +28,13 @@ if Age > 21 :
   print("You can rent a car")
 
 # Excersie 7: Ask user for their name then display in the console, "Hello their name"
+Their_Name = input("What is your name?")
+print("Hello, " + Their_Name)
 
 # Excersise 8: Create a loop that will display each item from fav food on a seperate line on the console
-
+for i in fav_food:
+  print(i)
 # Excersise 9: Create a while loop that will never run
-While: 
+x = 1
+while x == 2 :
+  print("equal >;)")
