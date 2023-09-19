@@ -24,7 +24,8 @@ print("im going to break")
 fav_food = ['Rice' 'Chicken' 'Lamb' ]
 
 # Excersise 6: create conditional statement if age is greater than or equal to 21
-if Age > 21: print("You can rent a car")
+if Age > 21 :
+  print("You can rent a car")
 
 # Excersie 7: Ask user for their name then display in the console, "Hello their name"
 
