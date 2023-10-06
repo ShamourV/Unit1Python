@@ -13,12 +13,16 @@ Write a program to count by 10s from 900 to 1000
 """
 for x in range(900, 1000, 10):
     print(x)
+    #Starting off at 900 I was meant to keep counting by 10s
+    #until the code eventually reached to 1000 then stopped.
 """
 Exercise 3:
 Write a program that counts form 1-100 by 9
 """
 for x in range(1, 100, 9 ):
     print(x)
+    #The starting range is 1 and the last number 9 is what I am counting by
+    #until I hit 100 by just counting by 9s
 """
 Exercise 4:
 Write a program to calculate the sum of all numbers from 1 to 10 using a for loop.
