@@ -4,7 +4,7 @@ except:
   print('unable to conbert number to int')
   try:
     faveNum = int(input('What is your favorite number: '))
-except:
+ except:
 if age <= 21:
  print('You are not allowed to enter, you are too young.')
 else:
